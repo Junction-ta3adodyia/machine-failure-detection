@@ -103,7 +103,3 @@ Multiple classification models are evaluated, including:
 - LightGBM
 
 Performance metrics include accuracy, precision, recall, F1-score, and runtime.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.

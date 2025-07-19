@@ -8,3 +8,4 @@ lightgbm==3.3.5
 jupyter==1.0.0
 notebook==6.5.4
 joblib==1.2.0
+pickle
